@@ -97,8 +97,8 @@ def descargar_archivos(driver):
 
 
 
-EMAIL = 'elmartinez@asefimex.com'
-PASSWORD = 'Daira2812'
+EMAIL = 'mailz@mail.com'
+PASSWORD = 'mipass'
 
 indice_actual = 0
 
